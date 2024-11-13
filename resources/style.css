@@ -17,5 +17,7 @@ h1{
 }
 
 video{
-    justify-content: center;
+    position: relative;
+    left: 416px;
+    top: 20px;
 }
